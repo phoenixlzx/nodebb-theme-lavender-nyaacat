@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-theme-lavender",
+  "name": "nodebb-theme-lavender-nyaacat",
   "version": "1.0.45",
-  "description": "Lavender Theme for NodeBB",
+  "description": "Lavender Theme for NodeBB, modified at NyaaCat",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-lavender"
+    "url": "https://github.com/phoenixlzx/nodebb-theme-lavender-nyaacat"
   },
   "keywords": [
     "nodebb",
